@@ -1,6 +1,6 @@
 # Unity Procedural Map Generator
 
-This project is a procedural map generator I built in Unity using C#.
+This is a procedural map generator I built in Unity using C#.
 
 ---
 
