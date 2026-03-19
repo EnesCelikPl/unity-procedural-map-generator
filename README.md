@@ -6,6 +6,8 @@ This project is a procedural map generator I built in Unity using C#.
 
 ## Demo
 
+Below is an example of a randomly generated map:
+
 ![Map Preview](images/map.png)
 
 ---
@@ -15,6 +17,8 @@ This project is a procedural map generator I built in Unity using C#.
 The goal of this project is to generate maps automatically instead of designing them manually.
 
 Each time the project runs, it creates a new map with different island shapes and object placements.
+
+The system is designed to be simple, reusable and easy to integrate into other projects.
 
 ---
 
@@ -66,6 +70,15 @@ Open the project in Unity and run the scene to see the generated map.
 ## Notes
 
 This project focuses on the core generation logic. It can be extended and used in different types of games.
+
+---
+
+## Future Improvements
+
+- Biome system (different map types)
+- Enemy/path system integration
+- Better terrain variation
+- Performance optimization for large maps
 
 ---
 
